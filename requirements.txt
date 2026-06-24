@@ -1,4 +1,16 @@
+# Core ML & Inference
 torch
 transformers
 accelerate
+
+# Quantization & Fine-Tuning
 bitsandbytes
+peft
+trl
+
+# Unsloth Engine
+unsloth
+
+# Data & Benchmarking
+datasets
+tqdm
