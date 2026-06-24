@@ -10,9 +10,6 @@ This project replicates the core architectural concepts behind models like OpenA
 2. **Reinforcement Learning (GRPO):** Implemented an automated RL sandbox utilizing Outcome Reward Models (ORM) and Process Reward Models (PRM) to penalize arithmetic hallucination.
 3. **Agentic Reflexion Loop:** Engineered a multi-agent LLM-as-a-Judge inference loop. The model acts as both a 'Solver' and a 'Critic', autonomously evaluating its own intermediate reasoning steps and self-correcting mathematical errors over multiple compute iterations.
 
-## 🧠 Reflexion Loop in Action
-*(Drag and drop your terminal screenshot here showing the Critic and Solver debating!)*
-
 ## ⚙️ Tech Stack
 * **Frameworks:** PyTorch, Hugging Face Transformers, Unsloth, TRL (Transformer Reinforcement Learning)
 * **Techniques:** GRPO, LoRA Quantization, Beam-Search Decoding, Multi-Agent Reflexion
