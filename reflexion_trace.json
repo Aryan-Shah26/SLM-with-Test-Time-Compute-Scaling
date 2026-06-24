@@ -1,0 +1,20 @@
+{
+    "question": "Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",
+    "iterations": [
+        {
+            "iteration": 1,
+            "solution_attempt": "<think>\nIn April, Natalia sold clips to 48 / 2 = 24 clips.\nTherefore, Natalia sold 24 + 48 = 72 clips altogether in April and May.\n</think>\n\\boxed{72}",
+            "critique": " \nNatalia sold 72 clips altogether in April and May.\n</think>\n\\boxed{72}"
+        },
+        {
+            "iteration": 2,
+            "solution_attempt": "<think>\nIn April, Natalia sold clips to 48 / 2 = 24 clips.\nTherefore, Natalia sold 24 + 48 = 72 clips altogether in April and May.\n</think>\n\\boxed{108}",
+            "critique": " \nNatalia sold 48 clips in April and 48 / 2 = 24 clips in May.\nTherefore, Natalia sold 48 + 24 = 72 clips altogether in April and May.\n</think>\n\\boxed{108}"
+        },
+        {
+            "iteration": 3,
+            "solution_attempt": "<think>\nIn April, Natalia sold clips to 48 / 2 = 24 clips.\nTherefore, Natalia sold 48 + 24 = 72 clips altogether in April and May.\n</think>\n\\boxed{108}",
+            "critique": " \nNatalia sold 72 clips altogether in April and May.\n</think>\n\\boxed{72}"
+        }
+    ]
+}

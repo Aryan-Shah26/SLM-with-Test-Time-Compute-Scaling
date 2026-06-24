@@ -1,0 +1,11 @@
+# Environments
+venv/
+__pycache__/
+
+# Model Weights (DO NOT PUSH)
+models/
+*.safetensors
+*.bin
+
+# Unsloth Cache
+unsloth_compiled_cache/
